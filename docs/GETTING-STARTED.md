@@ -87,4 +87,4 @@ git push
 - **Don't break the chain** — aim for green GitHub graph
 - **Rest is productive** — take Sundays lighter
 
-*You've got this, David. One commit at a time.* 🇬🇭
+*You've got this, Osborn. One commit at a time.* 🇬🇭
