@@ -5,17 +5,7 @@
 [![MLE Track](https://img.shields.io/badge/ML%20Engineering-In%20Progress-orange)]()
 [![Location](https://img.shields.io/badge/Based%20in-Ghana%20🇬🇭-red)]()
 
-> **Mission:** Become a full-stack ML professional who can analyze data for business insights AND build production ML systems — from Accra to the world.
-
----
-
-## 👤 About Me
-
-**David Quayefio** — Statistics graduate from Accra Technical University, aspiring ML Engineer & Data Scientist based in Ghana. Building ML systems that solve real-world problems for African communities.
-
-**Background:** Statistics degree | Python & Scikit-Learn | Banking experience (Republic Bank) | Tax Administration (GRA) | Currently building a Smart Waste Management ML System for Ghanaian municipalities.
-
-**Target Industries:** Finance 🏦 | Health 🏥 | Transportation 🚗 | Oil & Gas ⛽
+> **Mission:** Become a full-stack ML professional who can analyze data for business insights AND build production ML systems — from Kumasi to the world.
 
 ---
 
